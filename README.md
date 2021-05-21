@@ -2,20 +2,20 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/harunmohamed/bambi-v3">
-    <img src="https://bit.ly/3bYmo7t" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Maruff/valY">
+    <img src="http://valai.uk/static/resources/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Bambi</h3>
+  <h3 align="center">valY</h3>
 
   <p align="center">
     Discover and Make Friends on Bambi!
     <br />
-    <a href="https://bambi.app">View App</a>
+    <a href="https://valY.4tn.in">View App</a>
     ·
-    <a href="https://bambi.app/m/harun">Report Bug</a>
+    <a href="https://valY.4tn.in/m/harun">Report Bug</a>
     ·
-    <a href="https://bambi.app/m/harun">Request Feature</a>
+    <a href="https://valY.4tn.in/m/harun">Request Feature</a>
   </p>
 </p>
 
@@ -114,14 +114,14 @@ python run.py
 
 Bambi can be used as a social network to share stuff, make friends, chat and see what your friends like and buy & sell stuff from each other
 
-_For more examples, please refer to the [Documentation](https://bambi.app)_
+_For more examples, please refer to the [Documentation](https://valY.4tn.in)_
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/harunmohamed/bambi-v3/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Maruff/valY/issues) for a list of proposed features (and known issues).
 
 
 
@@ -148,9 +148,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@harunnmohamed](https://twitter.com/harunnmohamed) - harunmohamed901@gmail.com
+Your Name - [@harunnmohamed](https://twitter.com/bmaruff) - bmaruff@gmail.com
 
-Project Link: [Bambi Official Webapp](https://bambi.app)
+Project Link: [Bambi Official Webapp](https://valY.4tn.in)
 
 
 
